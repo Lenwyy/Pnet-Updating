@@ -10,7 +10,11 @@ curl -sL 'https://labhub.eu.org/api/raw/?path=/UNETLAB%20I/upgrades_pnetlab/bion
 Kartolo Repo :
 
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal main restricted universe multiverse
+
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-updates main restricted universe multiverse
+
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-security main restricted universe multiverse
+
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-backports main restricted universe multiverse
+
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-proposed main restricted universe multiverse
